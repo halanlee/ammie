@@ -2784,7 +2784,9 @@ figcaption {
   background-repeat: no-repeat;
   color: #fff;
 }
-
+.section.premium-classes-gallery{
+  margin-top: 90px;
+}
 .section.photo-section {
   overflow: hidden;
   min-height: 70vh;
@@ -5434,6 +5436,7 @@ figcaption {
 
   .container.nav-container {
     position: static;
+    
   }
 
   .jumbo {
@@ -6769,4 +6772,7 @@ max-width: 800px;
   text-align: center;
   margin: auto;
   padding: 100px 0 0 0;
+}
+.white{
+  color:white;
 }

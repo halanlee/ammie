@@ -1590,7 +1590,8 @@ textarea.w-select {
 }
 .w-nav {
   position: relative;
-  background: #dddddd;
+  background-color: white;
+  /* background: #dddddd; */
   z-index: 1000;
 }
 .w-nav:before,
