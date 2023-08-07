@@ -4021,7 +4021,7 @@ figcaption {
 
 .brand-logo {
   display: block;
-  height: 100%;
+  height: 250%;
   -o-object-fit: contain;
   object-fit: contain;
 }
@@ -6775,4 +6775,7 @@ max-width: 800px;
 }
 .white{
   color:white;
+}
+.brand-logo-footer{
+  height: 350%;
 }
